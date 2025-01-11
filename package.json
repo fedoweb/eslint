@@ -1,0 +1,26 @@
+{
+  "name": "eslint",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedoweb/eslint.git"
+  },
+  "keywords": [
+    "homework"
+  ],
+  "author": "fedoweb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedoweb/eslint/issues"
+  },
+  "homepage": "https://github.com/fedoweb/eslint#readme",
+  "devDependencies": {
+    "eslint": "^8.57.1"
+  }
+}
